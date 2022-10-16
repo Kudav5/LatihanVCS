@@ -17,9 +17,9 @@ Version Control System sedangkan GitHub berperan sebagai penyimpan kode pemrogra
 , Setelah berhasil login ke GitHub, bisa mulai membuat repositori. Klik tombol **New**
 pada menu **Repositories** untuk membuat repositori baru. kemudian diarahkan pada halaman
 untuk membuat repositori baru. Detail dan penjelasan yaitu
-a. **Nama Repositori**, digunakan untuk identitas repository yang dibuat
-b. **Description Repository**, untuk deskripsi Repository
-c. **Jenis Repository**, jenis repository dibagi menjadi **public** dan **private**. 
+1) **Nama Repositori**, digunakan untuk identitas repository yang dibuat
+2) **Description Repository**, untuk deskripsi Repository
+3) **Jenis Repository**, jenis repository dibagi menjadi **public** dan **private**. 
    **Public**, orang lain dapat melihat repository yang dibuat sedangkan **private**,
    hanya dibaca oleh pemilik itu sendiri
 4. **Buat Folder di Windows**
@@ -45,7 +45,7 @@ dikerjakan. Masukkan perintah
 , Repository jarak jauh berfungsi untuk mengupload file yang dibuat sebelumnya 
 di disk local. Masukkan perintah 
 `$ Git, Remote add origin git@github.com:UserNameGit/NamaRepositori.git`
-10. **Tekan ke GItHub**
+10. **Tekan ke GitHub**
 , Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari
 langkah -langkah di atas. Masukkan perintah untuk melakukan push ke GitHub
 `$ git push -u origin master`
