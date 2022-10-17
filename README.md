@@ -5,8 +5,10 @@ Berikut ini adalah langkah-langkah menggunakan Git
 , Untuk login ke git, bisa menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika belum
 memiliki akun dari ketiga platform tersebut, bisa mendaftarkan diri lewat 
 **Command Prompt** atau **Command Line**. Kemudian masukkan perintah di bawah
+```
 `$ git config --global user.name IsiDenganNamaAnda`   masukkan username
 `$ git config --global user.email IsiDenganEmailAnda.com`  massukkan email
+```
 Selanjutnya untuk memastikan proses login berhasil atau tidak, ketik perintah
 `$ git config --list`
 2. **Masuk GitHub**
