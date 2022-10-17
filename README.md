@@ -6,11 +6,14 @@ Berikut ini adalah langkah-langkah menggunakan Git
 memiliki akun dari ketiga platform tersebut, bisa mendaftarkan diri lewat 
 **Command Prompt** atau **Command Line**. Kemudian masukkan perintah di bawah
 ```
-`$ git config --global user.name IsiDenganNamaAnda`   masukkan username
-`$ git config --global user.email IsiDenganEmailAnda.com`  massukkan email
+$ git config --global user.name IsiDenganNamaAnda   masukkan username
+$ git config --global user.email IsiDenganEmailAnda.com  massukkan email
 ```
 Selanjutnya untuk memastikan proses login berhasil atau tidak, ketik perintah
-`$ git config --list`
+```
+$ git config --list
+```
+![vcs1](foto_langkah/vcs1.png)
 2. **Masuk GitHub**
 , Untuk menggunakan Git, buat akun [GitHub](https://github.com/) jika belum mempunyai 
 akun GitHub. GitHub dan Git mempunyai hubungan khusus yaitu Git berperan sebagai 
