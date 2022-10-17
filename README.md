@@ -1,7 +1,7 @@
 ## **Cara penggunaan git dan langkah-langkahnya lengkapi juga dengan screenshot prosesnya**
 
 Berikut ini adalah langkah-langkah menggunakan Git
-1. **Masuk Git**
+## 1. **Masuk Git**
 , Untuk login ke git, bisa menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika belum
 memiliki akun dari ketiga platform tersebut, bisa mendaftarkan diri lewat 
 **Command Prompt** atau **Command Line**. Kemudian masukkan perintah di bawah
