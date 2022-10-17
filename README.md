@@ -10,7 +10,7 @@ memiliki akun dari ketiga platform tersebut, bisa mendaftarkan diri lewat
 Selanjutnya untuk memastikan proses login berhasil atau tidak, ketik perintah
 `$ git config --list`
 2. **Masuk GitHub**
-, Untuk menggunakan Git, login ke dalam website [GitHub](https://github.com/) jika belum mempunyai 
+, Untuk menggunakan Git, buat akun [GitHub](https://github.com/) jika belum mempunyai 
 akun GitHub. GitHub dan Git mempunyai hubungan khusus yaitu Git berperan sebagai 
 Version Control System sedangkan GitHub berperan sebagai penyimpan kode pemrograman.
 3. **Buat Repositori**
