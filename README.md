@@ -14,11 +14,11 @@ Selanjutnya untuk memastikan proses login berhasil atau tidak, ketik perintah
 $ git config --list
 ```
 ![vcs1](foto_langkah/vcs1.png)
-2. **Masuk GitHub**
+## 2. **Masuk GitHub**
 , Untuk menggunakan Git, buat akun [GitHub](https://github.com/) jika belum mempunyai 
 akun GitHub. GitHub dan Git mempunyai hubungan khusus yaitu Git berperan sebagai 
 Version Control System sedangkan GitHub berperan sebagai penyimpan kode pemrograman.
-3. **Buat Repositori**
+### 3. **Buat Repositori**
 , Setelah berhasil login ke GitHub, bisa mulai membuat repositori. Klik tombol **New**
 pada menu **Repositories** untuk membuat repositori baru. kemudian diarahkan pada halaman
 untuk membuat repositori baru. Detail dan penjelasan yaitu
